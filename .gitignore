@@ -1,0 +1,17 @@
+#main
+
+*.ipr
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log/
+tcp-client/target/
+tcp-server/target/
+target/
+tcp-server/src/test
+tcp-client/src/test
